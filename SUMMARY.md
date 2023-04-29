@@ -23,5 +23,5 @@
 
 ## 🌿 Communities <a href="#community" id="community"></a>
 
-* [Memester Community](community/memester-community.md)
+* [Memester Community](community/memester.md)
 * [Ghost Gang](community/ghostgang.md)
