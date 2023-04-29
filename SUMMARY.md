@@ -20,3 +20,8 @@
 * [🤖 Telegram Bot](lensvert/telegram-bot/README.md)
   * [👋 Introduction](lensvert/telegram-bot/introduction.md)
   * [🖱 How to use the bot](lensvert/telegram-bot/how-to-use-the-bot.md)
+
+## 🌿 Communities <a href="#community" id="community"></a>
+
+* [Memester Community](community/memester-community.md)
+* [Ghost Gang](community/ghost-gang.md)
