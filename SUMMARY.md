@@ -8,11 +8,10 @@
 * [🔐 Minting Lens Profile NFT](getting-started/minting.md)
 * [⚙ Setup Your Profile](getting-started/setup.md)
 * [⌨ Apps](getting-started/apps/README.md)
+  * [🟦 DiverseHQ](getting-started/apps/diversehq.md)
   * [⚙ Lensvert](getting-started/apps/lensvert.md)
-  * [⚫ Orb](getting-started/apps/orb.md)
   * [🛒 Lensport](getting-started/apps/lensport.md)
   * [💎 Youfolio](getting-started/apps/youfolio.md)
-  * [🔵 Lenster](getting-started/apps/lenster.md)
   * [♣ Lens Clubs](getting-started/apps/lens-clubs.md)
 * [🔧 Tools](getting-started/tools.md)
 
