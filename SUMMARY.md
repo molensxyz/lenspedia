@@ -26,3 +26,8 @@
 
 * [Memester Community](community/memester.md)
 * [Ghost Gang](community/ghostgang.md)
+
+***
+
+* [🔨 Development](development/README.md)
+  * [Lens Basics by Nader](development/lens-basics-by-nader.md)
