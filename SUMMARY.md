@@ -30,4 +30,4 @@
 ***
 
 * [🔨 Development](development/README.md)
-  * [Lens Basics by Nader](development/lens-basics-by-nader.md)
+  * [Lens Basics by Nader](development/nader.md)
