@@ -1,6 +1,5 @@
 ---
 description: Your ultimate guide on how to travel thought lensverse by Molens.
-layout: landing
 ---
 
 # 📖 Lenspedia
