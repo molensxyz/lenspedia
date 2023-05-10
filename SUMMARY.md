@@ -8,6 +8,7 @@
 * [🔐 Minting Lens Profile NFT](getting-started/minting.md)
 * [⚙ Setup Your Profile](getting-started/setup.md)
 * [⌨ Apps](getting-started/apps/README.md)
+  * [🌿 Lensfrens](getting-started/apps/lensfrens.md)
   * [🟦 DiverseHQ](getting-started/apps/diversehq.md)
   * [⚙ Lensvert](getting-started/apps/lensvert/README.md)
     * [🤖 Telegram Bot](getting-started/apps/lensvert/telegram-bot/README.md)
