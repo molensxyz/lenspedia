@@ -1,5 +1,5 @@
 # Lens Echo
-Monitor your favorite Lens creators in real-time on Discord.  Add the bot to your server here: https://lensecho.xyz 🌿 📣
+Monitor your favorite Lens creators in real-time on Discord.  Add the bot to your server [here](https://lensecho.xyz) 🌿 📣
 
 Built by [Ben Baessler](https://benbaessler.com "Ben Baessler").
 
@@ -14,7 +14,7 @@ Lens Echo can monitor any Lens profile's publications, this includes:
 Optionally, you can choose whether to include mirror updates as well as mention users on new alerts.
 
 ## Quickstart
-Invite the bot to your server by going to https://lensecho.xyz
+Invite the bot to your server by going to [lensecho.xyz](https://lensecho.xyz)
 
 Run `/help` in any channel to view the quickstart guide.
 
