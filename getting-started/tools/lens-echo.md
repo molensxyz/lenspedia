@@ -1,17 +1,18 @@
-# Lens Echo
+# 🔊 Lens Echo
 Monitor your favorite Lens creators in real-time on Discord.  Add the bot to your server [here](https://lensecho.xyz) 🌿 📣
 
-Built by [Ben Baessler](https://benbaessler.com "Ben Baessler").
+Built by [Ben Baessler](https://lensfrens.xyz/benbaessler.lens).
 
 ## Features
 
-Lens Echo can monitor any Lens profile's publications, this includes:
+Lens Echo can monitor any Lens profile's activity, this includes:
 - Posts
 - Comments 
 - Mirrors
-- (Follows and Collects soon)
+- Collects
+- (Follows soon)
 
-Optionally, you can choose whether to include mirror updates as well as mention users on new alerts.
+Optionally, you can choose whether to include mirror updates, collect updates as well as mention users on new alerts.
 
 ## Quickstart
 Invite the bot to your server by going to [lensecho.xyz](https://lensecho.xyz)
@@ -28,7 +29,6 @@ Run `/help` in any channel to view the quickstart guide.
 
 ## Contact
 
-Any feedback on Lens Echo is highly appreciated! If you have questions, ideas, or bug reports, please message me either on [Twitter](https://twitter.com/mrbaessler "Twitter"), [Lens](https://lensfrens.xyz/benbaessler "Lens") or write an email to hello@lensecho.xyz 💚
+Any feedback on Lens Echo is highly appreciated! If you have questions, ideas, or bug reports, please write an email to hello@lensecho.xyz or mention [@lensecho](https://lensfrens.xyz/lensecho.lens) on Lens. 💚
 
-All updates about Lens Echo will be announced on my [Twitter](https://twitter.com/mrbaessler "Twitter") and[ Lens profile](https://lensfrens.xyz/benbaessler.lens " Lens profile"). 
-~ Ben
+All updates about Lens Echo will be shared on the project's [Lens profile](https://lensfrens.xyz/lensecho.lens).
