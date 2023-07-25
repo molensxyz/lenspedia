@@ -1,12 +1,12 @@
 # Table of contents
 
-* [📖 Lenspedia](README.md)
-
 ## Getting Started
 
-* [⚡ Starter Pack](getting-started/starter.md)
+* [🏠 Home Page](README.md)
 * [🔐 Minting Lens Profile NFT](getting-started/minting.md)
 * [⚙ Setup Your Profile](getting-started/setup.md)
+* [❔ How to guides](getting-started/how-to-guides/README.md)
+  * [🔓 Token gated posts](getting-started/how-to-guides/token-gated-posts.md)
 * [⌨ Apps](getting-started/apps/README.md)
   * [🌿 Lensfrens](getting-started/apps/lensfrens.md)
   * [🟦 DiverseHQ](getting-started/apps/diversehq.md)
@@ -19,14 +19,24 @@
   * [💎 Youfolio](getting-started/apps/youfolio.md)
   * [♣ Lens Clubs](getting-started/apps/lens-clubs.md)
 * [🔧 Tools](getting-started/tools/README.md)
-  * [📶 TBA](getting-started/tools/tba.md)
+  * [🔎 Lenscan](getting-started/tools/lenscan.md)
+  * [🔊 Lens Echo](getting-started/tools/lens-echo.md)
 
 ***
 
 * [🔨 Development](development/README.md)
   * [Lens Basics by Nader](development/nader.md)
 
-## 🌿 Communities <a href="#community" id="community"></a>
+## Lens Docs <a href="#docs" id="docs"></a>
 
-* [Memester Community](community/memester.md)
-* [Ghost Gang](community/ghostgang.md)
+* [Documentation](docs/documentation/README.md)
+  * [What is lens?](docs/documentation/what-is-lens.md)
+  * [Overview](docs/documentation/overview.md)
+  * [Developer Quickstart](docs/documentation/developer-quickstart.md)
+  * [Authentication Quickstart](docs/documentation/authentication-quickstart.md)
+  * [Developer Quickstart - Lens API](docs/documentation/developer-quickstart-lens-api.md)
+  * [Authentication Quickstart - Lens API](docs/documentation/authentication-quickstart-lens-api.md)
+  * [Deployed Contract Addresses](docs/documentation/deployed-contract-addresses.md)
+  * [Lensverse](docs/documentation/lensverse.md)
+  * [Developers FAQ](docs/documentation/developers-faq.md)
+  * [Community FAQ](docs/documentation/community-faq.md)
