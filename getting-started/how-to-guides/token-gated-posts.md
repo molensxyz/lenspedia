@@ -4,7 +4,7 @@ Token gated posts are a feature that can be used in various scenarios for exampl
 
 #### How does a token gated post look like?
 
-![](<../../.gitbook/assets/image (1) (1).png>)
+![](<../../.gitbook/assets/image (1).png>)
 
 #### What can i use to token gate a post?
 
@@ -17,7 +17,7 @@ To token gate a post you need to create a new publication and in the designated 
 for lenster the tab will be "acess" with lock icon beeing the last icon \
 for lensport the tab will be "gated post" with eye icon beeing the first icon
 
-<figure><img src="../../.gitbook/assets/image (1).png" alt=""><figcaption><p>Lenster token gated icon</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption><p>Lenster token gated icon</p></figcaption></figure>
 
 <figure><img src="../../.gitbook/assets/image (2).png" alt=""><figcaption><p>Lenster token gated icon</p></figcaption></figure>
 
