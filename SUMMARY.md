@@ -7,6 +7,7 @@
 * [⚙ Setup Your Profile](getting-started/setup.md)
 * [❔ How to guides](getting-started/how-to-guides/README.md)
   * [🔓 Token gated posts](getting-started/how-to-guides/token-gated-posts.md)
+  * [📨 How to Invite somone to Lens](getting-started/how-to-guides/how-to-invite-somone-to-lens.md)
 * [⌨ Apps](getting-started/apps/README.md)
   * [🌿 Lensfrens](getting-started/apps/lensfrens.md)
   * [🟦 DiverseHQ](getting-started/apps/diversehq.md)
