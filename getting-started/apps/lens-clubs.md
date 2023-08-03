@@ -1,2 +1,0 @@
-# ♣ Lens Clubs
-
