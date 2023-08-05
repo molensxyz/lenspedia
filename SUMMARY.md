@@ -9,24 +9,8 @@
   * [🔓 Token gated posts](getting-started/how-to-guides/token-gated-posts.md)
   * [📨 Invite somone to Lens](getting-started/how-to-guides/invite-somone-to-lens.md)
   * [🌿 Claim your lens handle](getting-started/how-to-guides/claim-your-lens-handle.md)
-* [⌨ Apps](getting-started/apps/README.md)
-  * [🌿 Lensfrens](getting-started/apps/lensfrens.md)
-  * [⚙ Lensvert](getting-started/apps/lensvert/README.md)
-    * [🤖 Telegram Bot](getting-started/apps/lensvert/telegram-bot/README.md)
-      * [👋 Introduction](getting-started/apps/lensvert/telegram-bot/introduction.md)
-      * [🖱 How to use the bot](getting-started/apps/lensvert/telegram-bot/how-to-use-the-bot.md)
-    * [🌐 Website](getting-started/apps/lensvert/website.md)
-  * [Phaver](getting-started/apps/phaver/README.md)
-    * [How to create a Phaver profile](getting-started/apps/phaver/how-to-create-a-phaver-profile.md)
-    * [Connecting a lens profile](getting-started/apps/phaver/connecting-a-lens-profile.md)
-* [🔧 Tools](getting-started/tools/README.md)
-  * [🔎 Lenscan](getting-started/tools/lenscan.md)
-  * [🔊 Lens Echo](getting-started/tools/lens-echo.md)
-
-***
-
-* [🔨 Development](development/README.md)
-  * [Lens Basics by Nader](development/nader.md)
+* [🔨 Development](getting-started/development/README.md)
+  * [Lens Basics by Nader](getting-started/development/nader.md)
 
 ## Lens Docs <a href="#docs" id="docs"></a>
 
@@ -66,3 +50,20 @@
   * [Follow a profile](docs/react-hooks-sdk/follow-a-profile.md)
   * [Self-funded transactions](docs/react-hooks-sdk/self-funded-transactions.md)
   * [Snapshot integration](docs/react-hooks-sdk/snapshot-integration.md)
+
+## Apps
+
+* [⚙ Lensvert](apps/lensvert/README.md)
+  * [🤖 Telegram Bot](apps/lensvert/telegram-bot/README.md)
+    * [👋 Introduction](apps/lensvert/telegram-bot/introduction.md)
+    * [🖱 How to use the bot](apps/lensvert/telegram-bot/how-to-use-the-bot.md)
+  * [🌐 Website](apps/lensvert/website.md)
+* [🌿 Lensfrens](apps/lensfrens.md)
+* [🟣 Phaver](apps/phaver/README.md)
+  * [How to create a Phaver profile](apps/phaver/how-to-create-a-phaver-profile.md)
+  * [Connecting a lens profile](apps/phaver/connecting-a-lens-profile.md)
+
+## Tools
+
+* [🔎 Lenscan](tools/lenscan.md)
+* [🔊 Lens Echo](tools/lens-echo.md)
