@@ -68,6 +68,12 @@
     * [Phaver Credentials](apps/phaver/phaver-points-and-cred-score/phaver-credentials.md)
     * [NFT's in Phaver](apps/phaver/phaver-points-and-cred-score/nfts-in-phaver.md)
     * [Phaver Level 2](apps/phaver/phaver-points-and-cred-score/phaver-level-2.md)
+  * [Curating Feed](apps/phaver/curating-feed/README.md)
+    * [Subscribing to topics](apps/phaver/curating-feed/subscribing-to-topics.md)
+    * [Likes](apps/phaver/curating-feed/likes.md)
+    * [Following](apps/phaver/curating-feed/following.md)
+    * [Reporting a post](apps/phaver/curating-feed/reporting-a-post.md)
+    * [Filters](apps/phaver/curating-feed/filters.md)
 
 ## Tools
 

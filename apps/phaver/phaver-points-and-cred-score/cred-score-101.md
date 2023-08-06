@@ -19,7 +19,7 @@ The more that you connect & use the Phaver app, the more Cred & Points you will 
 
 &#x20;Example of a Cred and Points values 👇
 
-![](<../../../.gitbook/assets/image (1).png>)
+![](<../../../.gitbook/assets/image (1) (1).png>)
 
 **What is C?** \
 C = Cred \
@@ -40,5 +40,5 @@ Phaver points will be used as a Proxy for Phaver Tokens (when the Phaver token l
 
 ## **Check your level:**&#x20;
 
-![](<../../../.gitbook/assets/image (2).png>)![](<../../../.gitbook/assets/image (3).png>)
+![](<../../../.gitbook/assets/image (2) (1).png>)![](<../../../.gitbook/assets/image (3) (1).png>)
 

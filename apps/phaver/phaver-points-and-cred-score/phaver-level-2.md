@@ -4,5 +4,5 @@
 
 Check your level:&#x20;
 
-![](<../../../.gitbook/assets/image (2).png>)![](<../../../.gitbook/assets/image (3).png>)
+![](<../../../.gitbook/assets/image (2) (1).png>)![](<../../../.gitbook/assets/image (3) (1).png>)
 
