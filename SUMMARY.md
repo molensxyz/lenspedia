@@ -62,6 +62,12 @@
 * [🟣 Phaver](apps/phaver/README.md)
   * [How to create a Phaver profile](apps/phaver/how-to-create-a-phaver-profile.md)
   * [Connecting a lens profile](apps/phaver/connecting-a-lens-profile.md)
+  * [Phaver points and cred score](apps/phaver/phaver-points-and-cred-score/README.md)
+    * [Cred Score - 101](apps/phaver/phaver-points-and-cred-score/cred-score-101.md)
+    * [Phaver SBT's](apps/phaver/phaver-points-and-cred-score/phaver-sbts.md)
+    * [Phaver Credentials](apps/phaver/phaver-points-and-cred-score/phaver-credentials.md)
+    * [NFT's in Phaver](apps/phaver/phaver-points-and-cred-score/nfts-in-phaver.md)
+    * [Phaver Level 2](apps/phaver/phaver-points-and-cred-score/phaver-level-2.md)
 
 ## Tools
 
