@@ -3,12 +3,11 @@
 ## Getting Started
 
 * [🏠 Home Page](README.md)
-* [🔐 Minting Lens Profile NFT](getting-started/minting.md)
+* [🌿 Claiming Lens Profile NFT](getting-started/claim.md)
 * [⚙ Setup Your Profile](getting-started/setup.md)
 * [❔ How to guides](getting-started/how-to-guides/README.md)
   * [🔓 Token gated posts](getting-started/how-to-guides/token-gated-posts.md)
   * [📨 Invite somone to Lens](getting-started/how-to-guides/invite-somone-to-lens.md)
-  * [🌿 Claim your lens handle](getting-started/how-to-guides/claim-your-lens-handle.md)
 * [🔨 Development](getting-started/development/README.md)
   * [Lens Basics by Nader](getting-started/development/nader.md)
 
