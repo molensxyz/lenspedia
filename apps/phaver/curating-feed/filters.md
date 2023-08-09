@@ -22,7 +22,7 @@ We have even more options available to you:&#x20;
 
 ### Setup filters
 
-Arcade Filters link
+{% @arcade/embed flowId="5zvbLIqMNaoK0qbdRSj0" url="https://app.arcade.software/share/5zvbLIqMNaoK0qbdRSj0" %}
 
 ### Tips and ticks&#x20;
 

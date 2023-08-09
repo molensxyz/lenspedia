@@ -14,4 +14,4 @@ Please report any content that violates the Phaver content guidelines&#x20;
 
 If you come across a post that violates any of the content guidelines above then do the following to report it
 
-arcade link here
+{% @arcade/embed flowId="xfrQUk9CiZX2mgb42uk8" url="https://app.arcade.software/share/xfrQUk9CiZX2mgb42uk8" %}

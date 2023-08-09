@@ -4,7 +4,7 @@
 
 Here are the steps to follow at [connect.phaver.com](https://connect.phaver.com/):&#x20;
 
-arcade "Phaver nft's verification" link here
+{% @arcade/embed flowId="806qF6J2bqnUEDWUSTvi" url="https://app.arcade.software/share/806qF6J2bqnUEDWUSTvi" %}
 
 {% hint style="info" %}
 You can repeat this process to link multiple wallets with multiple NFTs in it
