@@ -10,8 +10,8 @@ You can manage your subscription to topics that interest you in a couple of ways
 
 **Discovery Page**
 
-![](../../../.gitbook/assets/image.png)
+![](<../../../.gitbook/assets/image (12).png>)
 
 **Topic Page**
 
-![](<../../../.gitbook/assets/image (1).png>)
+![](<../../../.gitbook/assets/image (1) (1).png>)

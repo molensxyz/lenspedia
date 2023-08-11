@@ -30,12 +30,12 @@ Glancing up to the top right hand corner of your screen will tell you how your f
 
 #### The sorting icons and labels&#x20;
 
-![](<../../../.gitbook/assets/image (8).png>)
+![](<../../../.gitbook/assets/image (8) (1).png>)
 
 **Filtering for "my follows"**&#x20;
 
-![](<../../../.gitbook/assets/image (9).png>)
+![](<../../../.gitbook/assets/image (9) (1).png>)
 
 **Filtering for "Lens follows"**
 
-![](<../../../.gitbook/assets/image (10).png>)
+![](<../../../.gitbook/assets/image (10) (1).png>)
