@@ -73,6 +73,11 @@
     * [Following](apps/phaver/curating-feed/following.md)
     * [Reporting a post](apps/phaver/curating-feed/reporting-a-post.md)
     * [Filters](apps/phaver/curating-feed/filters.md)
+* [🛒 Lensport](apps/lensport.md)
+* [⚫ Orb](apps/orb.md)
+* [🟪 DiverseHQ](apps/diversehq.md)
+* [📼 Lenstuve](apps/lenstuve.md)
+* [▶ Lensplay](apps/lensplay.md)
 
 ## Tools
 
