@@ -1,2 +1,0 @@
-# Memester Community
-
