@@ -92,6 +92,7 @@
 * [🟪 DiverseHQ](apps/diversehq.md)
 * [📼 Lenstuve](apps/lenstuve.md)
 * [▶ Lensplay](apps/lensplay.md)
+* [🍐 Lenspeer](apps/lenspeer.md)
 
 ## Tools
 
