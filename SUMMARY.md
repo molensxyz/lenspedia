@@ -94,6 +94,7 @@
 * [▶ Lensplay](apps/lensplay.md)
 * [🍐 Lenspeer](apps/lenspeer.md)
 * [💰 LensWallet](apps/lenswallet.md)
+* [🍀 Lenstik](apps/lenstik.md)
 
 ## Tools
 
