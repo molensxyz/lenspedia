@@ -100,3 +100,4 @@
 
 * [🔎 Lenscan](tools/lenscan.md)
 * [🔊 Lens Echo](tools/lens-echo.md)
+* [🪙 Wagmi](tools/wagmi.md)
