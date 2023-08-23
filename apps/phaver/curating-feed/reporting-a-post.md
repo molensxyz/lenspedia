@@ -14,4 +14,6 @@ Please report any content that violates the Phaver content guidelines&#x20;
 
 If you come across a post that violates any of the content guidelines above then do the following to report it
 
-{% @arcade/embed flowId="xfrQUk9CiZX2mgb42uk8" url="https://app.arcade.software/share/xfrQUk9CiZX2mgb42uk8" %}
+{% embed url="https://lenstube.xyz/watch/0x01d6d4-0x02-DA-a79e37fb" %}
+How to report a publication
+{% endembed %}

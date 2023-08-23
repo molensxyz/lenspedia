@@ -22,7 +22,7 @@ We have even more options available to you:&#x20;
 
 ### Setup filters
 
-{% @arcade/embed flowId="5zvbLIqMNaoK0qbdRSj0" url="https://app.arcade.software/share/5zvbLIqMNaoK0qbdRSj0" %}
+{% embed url="https://lenstube.xyz/watch/0x01d6d4-0x02-DA-cfaeb945" %}
 
 ### Tips and ticks&#x20;
 

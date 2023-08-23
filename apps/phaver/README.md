@@ -20,4 +20,6 @@ You can sign up to Phaver by either;
 1. 1.Using an email address
 2. 2.Using your favourite 3rd party app such as Google, Facebook or Apple
 
-{% @arcade/embed flowId="h9ZdihEyYxGIz1ZQ2JTr" url="https://app.arcade.software/share/h9ZdihEyYxGIz1ZQ2JTr" %}
+{% embed url="https://lenstube.xyz/watch/0x01d6d4-0x02-DA-8bb98efe" %}
+How to create phaver account
+{% endembed %}

@@ -9,4 +9,7 @@ You can change your details via your profile settings for things like
 
 ### The flow to make these changes
 
-{% @arcade/embed flowId="dDLthbWizhclLLEyq44S" url="https://app.arcade.software/share/dDLthbWizhclLLEyq44S" %}
+{% embed url="https://lenstube.xyz/watch/0x01d6d4-0x02-DA-dc8b4fbb" %}
+How to change your profile details
+{% endembed %}
+

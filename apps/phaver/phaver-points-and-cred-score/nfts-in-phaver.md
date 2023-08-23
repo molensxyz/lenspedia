@@ -4,7 +4,9 @@
 
 Here are the steps to follow at [connect.phaver.com](https://connect.phaver.com/):&#x20;
 
-{% @arcade/embed flowId="806qF6J2bqnUEDWUSTvi" url="https://app.arcade.software/share/806qF6J2bqnUEDWUSTvi" %}
+{% embed url="https://lenstube.xyz/watch/0x01d6d4-0x02-DA-c66edf13" %}
+How to verify NFT's ownership
+{% endembed %}
 
 {% hint style="info" %}
 You can repeat this process to link multiple wallets with multiple NFTs in it
