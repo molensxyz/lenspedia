@@ -95,7 +95,7 @@
 * [⚫ Orb](apps/orb.md)
 * [📼 Lenstuve](apps/lenstuve.md)
 * [▶ Lensplay](apps/lensplay.md)
-* [🍐 Lenspeer](apps/lenspeer.md)
+* [🌱 Lenspeer](apps/lenspeer.md)
 * [💰 LensWallet](apps/lenswallet.md)
 * [🍀 Lenstik](apps/lenstik.md)
 
