@@ -3,6 +3,9 @@
 ## Getting Started
 
 * [🏠 Home Page](README.md)
+* [🧱 Lens Fundamentals](getting-started/basics/README.md)
+  * [How Lens Publications Work?](getting-started/basics/how-lens-publications-work.md)
+  * [How Lens Follows & Followers work](getting-started/basics/how-lens-follows-and-followers-work.md)
 * [🌿 Claiming Lens Profile NFT](getting-started/claim.md)
 * [⚙ Setup Your Profile](getting-started/setup.md)
 * [❔ How to guides](getting-started/how-to-guides/README.md)
