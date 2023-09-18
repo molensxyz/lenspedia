@@ -99,14 +99,15 @@
 
 ## Tools
 
-* [⚙ Lensvert](tools/lensvert/README.md)
-  * [🤖 Telegram Bot](tools/lensvert/telegram-bot/README.md)
-    * [👋 Introduction](tools/lensvert/telegram-bot/introduction.md)
-    * [🖱 How to use the bot](tools/lensvert/telegram-bot/how-to-use-the-bot.md)
-  * [🌐 Website](tools/lensvert/website.md)
+* [⚙ Lensvert](apps/lensvert/README.md)
+  * [🤖 Telegram Bot](apps/lensvert/telegram-bot/README.md)
+    * [👋 Introduction](apps/lensvert/telegram-bot/introduction.md)
+    * [🖱 How to use the bot](apps/lensvert/telegram-bot/how-to-use-the-bot.md)
+  * [🌐 Website](apps/lensvert/website.md)
 * [🔎 Lenscan](tools/lenscan.md)
 * [🔊 Lens Echo](tools/lens-echo.md)
 * [🪙 Wagmi](tools/wagmi.md)
+* [🖼 Lenspost](tools/lenspost.md)
 
 ## Integrations
 
