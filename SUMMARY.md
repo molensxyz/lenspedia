@@ -55,12 +55,10 @@
 
 ## Apps
 
-* [⚙ Lensvert](apps/lensvert/README.md)
-  * [🤖 Telegram Bot](apps/lensvert/telegram-bot/README.md)
-    * [👋 Introduction](apps/lensvert/telegram-bot/introduction.md)
-    * [🖱 How to use the bot](apps/lensvert/telegram-bot/how-to-use-the-bot.md)
-  * [🌐 Website](apps/lensvert/website.md)
-* [🌿 Lensfrens](apps/lensfrens.md)
+* [🟪 DiverseHQ](apps/diversehq/README.md)
+  * [Curating Feed](apps/diversehq/curating-feed.md)
+  * [Communities](apps/diversehq/communities.md)
+  * [Messages](apps/diversehq/messages.md)
 * [🟣 Phaver](apps/phaver/README.md)
   * [How to create a Phaver profile](apps/phaver/how-to-create-a-phaver-profile.md)
   * [Connecting a lens profile](apps/phaver/connecting-a-lens-profile.md)
@@ -90,20 +88,27 @@
     * [Commenting and replying](apps/phaver/using-phaver/commenting-and-replying.md)
     * [Notifications](apps/phaver/using-phaver/notifications.md)
     * [Discover page](apps/phaver/using-phaver/discover-page.md)
-* [🟪 DiverseHQ](apps/diversehq/README.md)
-  * [Curating Feed](apps/diversehq/curating-feed.md)
-  * [Communities](apps/diversehq/communities.md)
-  * [Messages](apps/diversehq/messages.md)
 * [🛒 Lensport](apps/lensport.md)
 * [⚫ Orb](apps/orb.md)
-* [📼 Lenstuve](apps/lenstuve.md)
+* [📼 Lenstube](apps/lenstuve.md)
 * [▶ Lensplay](apps/lensplay.md)
 * [🌱 Lenspeer](apps/lenspeer.md)
 * [💰 LensWallet](apps/lenswallet.md)
 * [🍀 Lenstik](apps/lenstik.md)
+* [🌿 Lensfrens](apps/lensfrens.md)
 
 ## Tools
 
+* [⚙ Lensvert](tools/lensvert/README.md)
+  * [🤖 Telegram Bot](tools/lensvert/telegram-bot/README.md)
+    * [👋 Introduction](tools/lensvert/telegram-bot/introduction.md)
+    * [🖱 How to use the bot](tools/lensvert/telegram-bot/how-to-use-the-bot.md)
+  * [🌐 Website](tools/lensvert/website.md)
 * [🔎 Lenscan](tools/lenscan.md)
 * [🔊 Lens Echo](tools/lens-echo.md)
 * [🪙 Wagmi](tools/wagmi.md)
+
+## Integrations
+
+* [XMTP](integrations/xmtp.md)
+* [Snapshot](integrations/snapshot.md)
