@@ -15,5 +15,5 @@ In the early stages of Web3 social - we believe that it's far better to bring va
 1. Find a post that you like on socials
 2. Click on the share button and either share directly to the Phaver native app or copy the link and paste it into Phaver while on the "post" page
 
-{% @arcade/embed flowId="r4xSLEvlXLNtc2SDSDhD" url="https://app.arcade.software/share/r4xSLEvlXLNtc2SDSDhD" %}
+{% embed url="https://lenstube.xyz/watch/0x01d6d4-0x02-DA-0be5c07a" %}
 

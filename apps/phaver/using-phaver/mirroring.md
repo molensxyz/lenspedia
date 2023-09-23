@@ -10,4 +10,4 @@ You mirror a post when:&#x20;
 
 ### Mirroring process
 
-{% @arcade/embed flowId="4zR97b1WcL2tpuSnQQ4L" url="https://app.arcade.software/share/4zR97b1WcL2tpuSnQQ4L" %}
+{% embed url="https://lenstube.xyz/watch/0x01d6d4-0x02-DA-90a570af" %}
