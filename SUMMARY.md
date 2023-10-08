@@ -91,7 +91,7 @@
     * [Discover page](apps/phaver/using-phaver/discover-page.md)
 * [🛒 Lensport](apps/lensport.md)
 * [⚫ Orb](apps/orb.md)
-* [📼 Lenstube](apps/lenstuve.md)
+* [📼 Tape](apps/lenstuve.md)
 * [▶ Lensplay](apps/lensplay.md)
 * [🌱 Lenspeer](apps/lenspeer.md)
 * [💰 LensWallet](apps/lenswallet.md)
