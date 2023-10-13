@@ -112,5 +112,7 @@
 
 ## Integrations
 
+* [📺 Unlonely](integrations/unlonely/README.md)
+  * [👾 How to become Unlonely streamer?](integrations/unlonely/how-to-become-unlonely-streamer.md)
 * [XMTP](integrations/xmtp.md)
 * [Snapshot](integrations/snapshot.md)
