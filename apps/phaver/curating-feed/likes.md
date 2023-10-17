@@ -12,7 +12,7 @@ Phaver like's enable you to like the content you find valuable - these likes ref
 
 Users will be notified with a push notification when a post is liked (see below)&#x20;
 
-![](<../../../.gitbook/assets/image (2) (1).png>)
+![](<../../../.gitbook/assets/image (2) (1) (1).png>)
 
 ### Things to know?&#x20;
 
@@ -20,7 +20,7 @@ Users will be notified with a push notification when a post is liked (see below)
 * You only get one upvote vote per post
 * Upvoting does not cost you any phaver tokens like staking does
 
-![](<../../../.gitbook/assets/image (3) (1).png>)
+![](<../../../.gitbook/assets/image (3) (1) (1).png>)
 
 The number next to the likes indicates the how many likes a post has received.
 

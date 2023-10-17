@@ -2,7 +2,7 @@
 
 A Lens collect makes the post a collectable NFT item. Collecting a post as an NFT allows the collector to mint the NFT to their profile but that NFT can be transferred (bought/sold/sent) to other wallets in the future.
 
-![](<../../../.gitbook/assets/image (5).png>)
+![](<../../../.gitbook/assets/image (5) (1).png>)
 
 Lens collected NFTs are minted on demand on the Polygon Network. Phaver currently covers the gas fees to mint to make it as easy as possible for you to use.
 

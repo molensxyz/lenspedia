@@ -37,15 +37,15 @@ _<mark style="color:orange;">Note: Phaver Level 1 users will not receive on-chai
 2. Proceed to posting or commenting and if you are restricted by Lens AND eligible for sponsored posts you will see the below notification
 3. Select "Use Phaver dispatcher" and follow instructions
 
-![](../../../.gitbook/assets/image.png)
+![](<../../../.gitbook/assets/image (7).png>)
 
 You will need to go through the dispatcher flow which will prompt you to sign a transaction with your wallet. Don't worry, you only need to do this once to enable Phaver to sponsor your gas fees&#x20;
 
-![](<../../../.gitbook/assets/image (2).png>)
+![](<../../../.gitbook/assets/image (2) (1).png>)
 
 Once activated, the number of on-chain actions that you are eligible for and how many you have remaining is shown in the top bar on your Phaver feed Screen
 
-![](<../../../.gitbook/assets/image (3).png>)
+![](<../../../.gitbook/assets/image (3) (1).png>)
 
 If your profile is unrestricted by Lens (can happen if posting high quality high signal content as these are reviewed frequently) you can return back to full functionality by changing from the Phaver dispatcher back to the Lens dispatcher, e.g. in Lenster settings (coming soon to Phaver).&#x20;
 

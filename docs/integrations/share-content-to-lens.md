@@ -23,7 +23,7 @@ https://lenster.xyz/?text=Hello%20World!&url=https://mycoolapp.xyz&via=MyCoolApp
 
 We would get the following share modal on Lenster:
 
-<figure><img src="../../.gitbook/assets/image (6) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (6) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 #### Video tutorial - share to Lens
 
