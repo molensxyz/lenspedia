@@ -115,7 +115,7 @@
     * [🖱 How to use the bot](apps/lensvert/telegram-bot/how-to-use-the-bot.md)
   * [🌐 Website](apps/lensvert/website.md)
 * [🔎 Lenscan](tools/lenscan.md)
-* [🔊 Lens Echo](tools/lens-echo.md)
+* [🔊 Social Bot](tools/lens-echo.md)
 * [🪙 Wagmi](tools/wagmi.md)
 * [🖼 Lenspost](tools/lenspost.md)
 

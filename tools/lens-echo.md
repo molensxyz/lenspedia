@@ -1,8 +1,12 @@
-# 🔊 Lens Echo
+---
+description: Monitor your favorite Lens creators in real-time on Discord.
+---
 
-### Features
+# 🔊 Social Bot
 
-Lens Echo can monitor any Lens profile's activity, this includes:
+#### Features
+
+Social Bot can monitor any Lens profile's activity, this includes:
 
 * Posts
 * Comments
@@ -12,9 +16,9 @@ Lens Echo can monitor any Lens profile's activity, this includes:
 
 Optionally, you can choose whether to include mirror updates, collect updates as well as mention users on new alerts.
 
-### Quickstart
+#### Quickstart
 
-Invite the bot to your server by going to [lensecho.xyz](https://lensecho.xyz/)
+Invite the bot to your server by going to [socialbot.gg](https://socialbot.gg/)
 
 Run `/help` in any channel to view the quickstart guide.
 
@@ -28,18 +32,12 @@ Run `/help` in any channel to view the quickstart guide.
 
 `/list` - List all monitored profiles on your server.
 
-### Contact
+#### Contact
 
-Any feedback on Lens Echo is highly appreciated! If you have questions, ideas, or bug reports, please write an email to [hello@lensecho.xyz](mailto:hello@lensecho.xyz) or mention [@lensecho](https://lensvert.xyz/u/lensecho) on Lens. 💚
+Any feedback on Social Bot is highly appreciated! If you have questions, ideas, or bug reports, mention [@lensecho](https://lensvert.xyz/u/lensecho) or create an issue on [GitHub](https://github.com/benbaessler/socialbot/issues). 💜
 
-All updates about Lens Echo will be shared on the project's [Lens profile](https://lensvert.xyz/u/lensecho).
+All updates about Social Bot will be shared on the project's [Lens profile](https://share.lens.xyz/u/lensecho.lens).
 
-### Dashboard
+#### Dashboard
 
-You can manage your bot activities via a web dashboard instead of using Discord commands. View the dashboard [here](https://dashboard.lensecho.xyz).
-
-## Monitor your favorite Lens creators in real-time on Discord. [**Add the bot to your server here**](https://lensecho.xyz)
-
-
-
-##
+You can manage your bot activities via a web dashboard instead of using Discord commands. View the dashboard [here](https://dashboard.socialbot.gg).
