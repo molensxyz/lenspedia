@@ -1,2 +1,0 @@
-# REACT HOOKS SDK
-

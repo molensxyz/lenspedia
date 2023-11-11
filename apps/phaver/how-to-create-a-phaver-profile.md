@@ -20,4 +20,4 @@ You can sign up to Phaver by either;
 1. 1.Using an email address
 2. 2.Using your favourite 3rd party app such as Google, Facebook or Apple
 
-{% embed url="https://lenstube.xyz/watch/0x01d6d4-0x02-DA-34b25293" %}
+{% embed url="https://tape.xyz/watch/0x01d6d4-0x02-DA-8bb98efe" %}

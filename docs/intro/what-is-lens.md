@@ -1,8 +1,4 @@
-# What is lens?
-
-
-
-<figure><img src="../../.gitbook/assets/4fe2492-what-is-lens.svg" alt=""><figcaption></figcaption></figure>
+# What is Lens?
 
 ### Introduction
 

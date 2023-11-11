@@ -1,13 +1,5 @@
 # Overview
 
-
-
-<div align="left">
-
-<figure><img src="../../.gitbook/assets/f12e37a-overview.svg" alt=""><figcaption></figcaption></figure>
-
-</div>
-
 The purpose of the Lens Protocol is to empower creators to own the links between themselves and their community, forming a fully composable, decentralized social graph. This is achieved by allowing users to create profiles and interact with each other via these profiles. "Profile" (as used here) refers specifically to Lens profiles; "user" refers to standard crypto-wallets.
 
 The protocol is built from the ground up with modularity in mind. Lens Protocol is currently overseen by a multisig, which will be expanded to a broader DAO, which can develop and vote on new modules and expanded functionality.
@@ -19,30 +11,28 @@ Let's first dig into profile creation and publishing. Users must create a profil
 Profile owners can:
 
 1. Publish to the profile. Publication types are:
-   * Post: A standard piece of content.
-   * Comment: A standard piece of content with a pointer to another publication.
-     * Since comments include a pointer, this executes the pointed publication's "reference module" logic, if any.
-   * Mirror: The equivalent of a "share" in a traditional sense, having no content but a pointer to another publication.
-     * Since mirrors only include a pointer, this executes the pointed publication's "reference module" logic, if any.
+   1. Post: A standard piece of content.
+   2. Comment: A standard piece of content with a pointer to another publication.
+      1. Since comments include a pointer, this executes the pointed publication's "reference module" logic, if any.
+   3. Quote: Very similar to Comment, also with a pointer to another publication, but usually shown as a separate publication on a timeline
+   4. Mirror: The equivalent of a "share" in a traditional sense, having no content but a pointer to another publication.
+      1. Since mirrors only include a pointer, this executes the pointed publication's "reference module" logic, if any.
 2. Set the profile's "follow module":
-   * This whitelisted logic contract determines the logic that must be executed when a wallet attempts to follow the given profile; for example, some followers may incur a fee to the profile owner via the fee follow module contract.
-3. Set the profile's image URI
-4. Set the profile's "dispatcher":
-   * This is an address that can act on behalf of a profile's owner; it can:
-     * Publish to the given profile.
-     * Set the given profile's URI.
-
-**Regular wallets can:**
-
-1. Follow profiles:
-   * This executes the profile's "follow module" logic, if any.
-   * This mints the following wallet a "follow NFT" unique to that profile and sequentially ID'd.
-     * Follow NFTs have a custom URI set by profile owners.
-2. Collect publications:
-   * This executes any logic in the publication's "collect module."
-     * If the publication is a mirror, this is executed on the originally mirrored publication with a referral.
-   * This mints the collecting wallet a "collect NFT" unique to that publication and sequentially ID'd.
-     * Collect NFT URIs point to the collected publication's URI.
+   1. This logic contract determines the logic that must be executed when a wallet attempts to follow the given profile; for example, some followers may incur a fee to the profile owner via the fee follow module contract.
+3. Set the profile's metadata URI
+4. Set the profile's "Delegated Executors" (aka Profile Managers):
+   1. This is an address that can act on behalf of a profile's owner; it can:
+      1. Publish to the given profile.
+      2. Follow
+      3. Act
+      4. Set the given profile's metadata URI.
+5. Follow other profiles:
+   1. This executes the profile's "follow module" logic, if any.
+   2. This creates a "follow NFT" unique to that profile and sequentially ID'd and is tied to the following profile.
+      1. Follow NFTs can be wrapped into a regular ERC721
+      2. And unwrapped again to be tied to the profile
+6. Act on publications:
+   1. This executes any logic in the publication's "Action module."
 
 #### Tokenization
 
@@ -52,9 +42,7 @@ The `LensHub` upgradeable contract is the core entry point for the majority of i
 
 Upon a profile's first follow, a `FollowNFT` contract is deployed (via minimal proxy cloning), unique to the profile; this is the ERC721 NFT contract that represents follower positions.
 
-Lastly, upon a publication's first collect, a `CollectNFT` contract is deployed (again, via minimal proxy cloning), unique to the publication; this is the ERC721 NFT contract that represents collected publications.
-
-Note that follow and collect NFTs are deployed only upon the first follow/collect, respectively. This reduces gas overhead for profile creation.
+Users can also mint Handles NFTs and link them to their profiles (and unlink at any time to be linked to another profile).
 
 #### Modularity
 
@@ -66,8 +54,8 @@ There are three types of modules:
 
 1. Follow modules:\
    a. These modules are tied to a profile and contain logic to be executed upon a user attempting to follow the given profile.
-2. Collect modules:\
-   a. These modules are tied to specific publications (except mirrors, which cannot be collected) and contain logic to be executed upon a user attempting to collect the given publication.
+2. Action modules:\
+   a. These modules are tied to specific publications (except mirrors, which cannot be acted on) and contain logic to be executed upon a user attempting to act on the given publication.
 3. Reference modules:\
    a. These modules are tied to specific publications and contain logic to be executed upon a user attempting to comment or mirror the given publication.\
    b. Note that the original content and its reference module are used in the case where a mirror attempts to point to a mirror.
@@ -76,4 +64,4 @@ There are three types of modules:
 
 The Lens Protocol is a composable social graph protocol built to be community-owned and ever-evolving. It empowers its users by allowing them to decide _how_ they want their social graph to be built and how they want it to be monetized, if at all.
 
-Furthermore, the protocol is engineered with the concept of modularity at its core, allowing for an infinitely expanding amount of use cases. This, from the user's perspective, translates to a new paradigm of ownership and customization that isn't possible (or financially feasible) in Web2.\
+Furthermore, the protocol is engineered with the concept of modularity at its core, allowing for an infinitely expanding amount of use cases. This, from the user's perspective, translates to a new paradigm of ownership and customization that isn't possible (or financially feasible) in Web2.
