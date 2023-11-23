@@ -62,6 +62,7 @@
   * [Dive deeper with search bar](apps/orb/dive-deeper-with-search-bar.md)
   * [Claimables](apps/orb/claimables.md)
 * [📼 Tape](apps/lenstuve.md)
+* [〰 Kaira](apps/kaira.md)
 * [▶ Lensplay](apps/lensplay.md)
 * [🌱 Lenspeer](apps/lenspeer.md)
 * [💰 LensWallet](apps/lenswallet.md)
