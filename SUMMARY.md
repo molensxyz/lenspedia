@@ -84,7 +84,9 @@
 
 ## Integrations
 
-* [🏰 Guild](integrations/guild.md)
+* [🏰 Guild](integrations/guild/README.md)
+  * [Requirments](integrations/guild/requirments.md)
+  * [Rewards](integrations/guild/rewards.md)
 * [📺 Unlonely](integrations/unlonely/README.md)
   * [👾 How to become Unlonely streamer?](integrations/unlonely/how-to-become-unlonely-streamer.md)
 
