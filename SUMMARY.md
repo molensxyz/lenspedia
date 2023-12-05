@@ -72,7 +72,7 @@
 ## Tools
 
 * [🔎 Lenscan](tools/lenscan.md)
-* [🔊 Social Bot](tools/lens-echo.md)
+* [🔊 Social Bot](tools/socialbot.md)
 * [⛔ Gossix](tools/gossix.md)
 * [⚙ Lensvert](apps/lensvert/README.md)
   * [🤖 Telegram Bot](apps/lensvert/telegram-bot/README.md)

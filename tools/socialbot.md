@@ -36,7 +36,7 @@ Run `/help` in any channel to view the quickstart guide.
 
 Any feedback on Social Bot is highly appreciated! If you have questions, ideas, or bug reports, mention [@lensecho](https://lensvert.xyz/u/lensecho) or create an issue on [GitHub](https://github.com/benbaessler/socialbot/issues). 💜
 
-All updates about Social Bot will be shared on the project's [Lens profile](https://share.lens.xyz/u/lensecho.lens).
+All updates about Social Bot will be shared on the project's [Lens profile](https://share.lens.xyz/u/lens/socialbot).
 
 #### Dashboard
 
