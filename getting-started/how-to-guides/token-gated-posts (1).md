@@ -1,4 +1,4 @@
-# Token gated posts
+# 🔓 Copy of Token gated posts
 
 Token gated posts are a feature that can be used in various scenarios for example if you want to hide something under a paywall remember that everything in the post is hiden so if you want to sepcify what the publication is you should comment with the content that you dont want to be hiden token gates are currently supported by [lenster ](https://lenster.xyz)and [lensport](htps://lensport.io)
 
@@ -16,6 +16,10 @@ On lensport you have that and also the ability to let anyone decrypt or holders 
 To token gate a post you need to create a new publication and in the designated field enter the settings you want the token gated post to represent \
 for lenster the tab will be "acess" with lock icon beeing the last icon \
 for lensport the tab will be "gated post" with eye icon beeing the first icon
+
+<figure><img src="../../.gitbook/assets/image (4) (1) (1) (1).png" alt=""><figcaption><p>Lenster token gated icon</p></figcaption></figure>
+
+<figure><img src="../../.gitbook/assets/image (2) (1) (1) (1) (1).png" alt=""><figcaption><p>Lenster token gated icon</p></figcaption></figure>
 
 <figure><img src="../../.gitbook/assets/image (5) (1) (1) (1).png" alt=""><figcaption><p>Lensport token gated icon</p></figcaption></figure>
 
