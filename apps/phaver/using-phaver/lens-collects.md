@@ -12,4 +12,4 @@ Lens collected NFTs mint to your Polygon wallet and become available for transfe
 
 ### Where Can I find my Lens Collects on Phaver?
 
-Visit your Phaver profile to see all of your Lens Collected NFTs or go to a Lens Collects app like [lensport.md](../../lensport.md "mention")
+Visit your Phaver profile to see all of your Lens Collected NFTs or go to a Lens Collects app like [lensport](../../lensport/ "mention")

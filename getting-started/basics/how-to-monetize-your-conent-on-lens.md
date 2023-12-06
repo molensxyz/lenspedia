@@ -32,7 +32,7 @@ Monetizing your Lens Profile involves leveraging the unique features of the Lens
 
 **Explore Token Gating:**
 
-* Learn more about token gating by exploring [token-gated-posts.md](../how-to-guides/token-gated-posts.md "mention")& [guild](../../integrations/guild/ "mention"). Understand how token gating can be applied to your content to provide exclusive access or rewards to those who hold specific NFTs.
+* Learn more about token gating by exploring [token-gated-posts.md](../../apps/lensport/token-gated-posts.md "mention")& [guild](../../integrations/guild/ "mention"). Understand how token gating can be applied to your content to provide exclusive access or rewards to those who hold specific NFTs.
 
 By combining these methods and staying engaged with your audience, you can effectively monetize your Lens Profile and turn your content into a sustainable revenue stream.
 

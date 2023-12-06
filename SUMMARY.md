@@ -12,7 +12,7 @@
 * [⚙ Setup Your Profile](getting-started/setup.md)
 * [❔ How to guides](getting-started/how-to-guides/README.md)
   * [📨 Invite somone to Lens](getting-started/how-to-guides/invite-somone-to-lens.md)
-  * [🔓 Token gated posts](getting-started/how-to-guides/token-gated-posts.md)
+  * [🔓 Copy of Token gated posts](getting-started/how-to-guides/token-gated-posts.md)
   * [💸 Monetization](getting-started/how-to-guides/monetization.md)
 * [🔨 Development](getting-started/development/README.md)
   * [Lens Basics by Nader](getting-started/development/nader.md)
@@ -52,7 +52,10 @@
     * [Commenting and replying](apps/phaver/using-phaver/commenting-and-replying.md)
     * [Notifications](apps/phaver/using-phaver/notifications.md)
     * [Discover page](apps/phaver/using-phaver/discover-page.md)
-* [🛒 Lensport](apps/lensport.md)
+* [🛒 Lensport](apps/lensport/README.md)
+  * [Buy posts](apps/lensport/buy-posts.md)
+  * [View Top Selling Posts and Users](apps/lensport/view-top-selling-posts-and-users.md)
+  * [Token gated posts](apps/lensport/token-gated-posts.md)
 * [⚫ Orb](apps/orb/README.md)
   * [Installing Orb](apps/orb/installing-orb.md)
   * [Setup your Orb profile](apps/orb/setup-your-orb-profile.md)
@@ -62,12 +65,10 @@
   * [Dive deeper with search bar](apps/orb/dive-deeper-with-search-bar.md)
   * [Claimables](apps/orb/claimables.md)
 * [📼 Tape](apps/lenstuve.md)
-* [〰 Kaira](apps/kaira.md)
-* [▶ Lensplay](apps/lensplay.md)
-* [🌱 Lenspeer](apps/lenspeer.md)
-* [💰 LensWallet](apps/lenswallet.md)
 * [🍀 Lenstik](apps/lenstik.md)
 * [🌿 Lensfrens](apps/lensfrens.md)
+* [🌱 Lenspeer](apps/lenspeer.md)
+* [🌼 Hey](apps/hey.md)
 
 ## Tools
 
@@ -78,9 +79,6 @@
   * [🤖 Telegram Bot](apps/lensvert/telegram-bot/README.md)
     * [👋 Introduction](apps/lensvert/telegram-bot/introduction.md)
     * [🖱 How to use the bot](apps/lensvert/telegram-bot/how-to-use-the-bot.md)
-  * [🌐 Website](apps/lensvert/website.md)
-* [🪙 Wagmi](tools/wagmi.md)
-* [🖼 Lenspost](tools/lenspost.md)
 
 ## Integrations
 
@@ -89,12 +87,3 @@
   * [Rewards](integrations/guild/rewards.md)
 * [📺 Unlonely](integrations/unlonely/README.md)
   * [👾 How to become Unlonely streamer?](integrations/unlonely/how-to-become-unlonely-streamer.md)
-
-## Lens Docs <a href="#docs" id="docs"></a>
-
-* [Intro](docs/intro/README.md)
-  * [What is Lens?](docs/intro/what-is-lens.md)
-  * [What's new in Lens V2?](docs/intro/whats-new-in-lens-v2.md)
-  * [Overview](docs/intro/overview.md)
-  * [Developer Quickstart](docs/intro/developer-quickstart.md)
-  * [Deployed Contract Addresses](docs/intro/deployed-contract-addresses.md)
