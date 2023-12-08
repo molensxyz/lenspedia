@@ -69,7 +69,12 @@
 * [🍀 Lenstik](apps/lenstik.md)
 * [🌿 Lensfrens](apps/lensfrens.md)
 * [🌱 Lenspeer](apps/lenspeer.md)
-* [🌼 Hey](apps/hey.md)
+* [🌼 Hey](apps/hey/README.md)
+  * [Make a publication](apps/hey/make-a-publication/README.md)
+    * [Collect Settings](apps/hey/make-a-publication/collect-settings.md)
+    * [Pools](apps/hey/make-a-publication/pools.md)
+  * [Bookmarks](apps/hey/bookmarks.md)
+  * [Explore](apps/hey/explore.md)
 
 ## Tools
 
